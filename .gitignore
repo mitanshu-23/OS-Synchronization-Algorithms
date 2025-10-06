@@ -1,0 +1,10 @@
+# Cargo build artifacts
+/target/
+Cargo.lock  # Only ignore for libraries, keep for binaries
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~

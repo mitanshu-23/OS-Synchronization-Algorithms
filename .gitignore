@@ -1,6 +1,6 @@
 # Cargo build artifacts
 /target/
-Cargo.lock  # Only ignore for libraries, keep for binaries
+Cargo.lock
 
 # IDE/Editor files
 .vscode/
